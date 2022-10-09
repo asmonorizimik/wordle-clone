@@ -1,0 +1,5 @@
+The rules of the game are pretty simple:
+1) just type in a guess and and press ‘Enter’.
+2) the game will indicate how good your guess was. If any letter are in their correct position they will turn green, if they are correct but in the wrong place, they turn orange, and if they don’t show up in the word they turn black.
+3) guess again, using the clues from the previous word
+4) repeat until you get the word correct or fail to figure it out after 6 tries.
